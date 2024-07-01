@@ -1,5 +1,12 @@
 ## Dancing Hackthebox
-
+### Room Description:
+This room is focused on network enumeration. Core skills are:
+- Nmap
+- SMB
+- SMBClient
+- Python (optional)
+- winrm (optional)
+----
 
 #### Step 0x01: `Network Scan`
 as usual, we will run a nmap scan to find open ports and services.
