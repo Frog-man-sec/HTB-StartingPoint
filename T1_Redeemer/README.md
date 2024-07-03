@@ -1,5 +1,11 @@
 ## Redeemer HackTheBox
 ### Room Description:
+cool room about redis. I've never worked with it. but let me tell you something, you should work with it. 
+
+Key Features:
+- Network enm
+- Redis
+- redis-cli
 
 ----
 

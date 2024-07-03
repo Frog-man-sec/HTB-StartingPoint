@@ -8,3 +8,4 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 |[Fawn](./T1_fawn/README.md)| Network | Nmap, **FTP**|
 |[Dancing](./T1_dancing/README.md)| Network | Nmap, **SMB**, smbclient|
 |[Redeemer](./T1_Redeemer/README.md)| Network | Nmap, Netcat, redis-cli, Redis|
+|[Explosion](./T1_explosion/README.md)|
