@@ -1,5 +1,12 @@
 ## Explosion HackTheBox
 #### About this room
+Cool room about explosive contents.
+*JK*, This room is about RDP. Remote Desktop Protocol. which is like SSH with GUI. Really cool and handy when you use mouse more than keyboard.
+
+**Stuffs Needed:**
+- Nmap
+- Remmina
+
 ___
 
 #### Step `0ne`: Network Scan
