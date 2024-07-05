@@ -1,5 +1,10 @@
 ## Synced HackTheBox
 #### About This Room
+If you are having truble maintaining files and folder between your VPS and local machine, then this Lab will help you with that. It's all about Remot Synchronizing files/ Folders between 2 host. Really cool. 
+
+**`Expertise:`**
+- Nmap
+- rsync
 
 ----
 
