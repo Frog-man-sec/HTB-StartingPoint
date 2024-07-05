@@ -10,4 +10,5 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 |[Redeemer](./T1_Redeemer/README.md)| Network | Nmap, Netcat, redis-cli, **Redis**|
 |[Explosion](./T1_explosion/README.md)| Network | Nmap, **RDP**, Remmina|
 |[Preignition](./T1_preignition/README.md)| Web | Nmap, FFUF, Gobuster |
-|[Mongod](./T1_mongod/README.md)| | |
+|[Mongod](./T1_mongod/README.md)| DB | Nmap, **MongoDB**, mongo |
+|[Synced](./T1_synced/README.md)| RSync | Nmap, **Rsync**, rsync|
