@@ -12,3 +12,8 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 |[Preignition](./T1_preignition/README.md)| Web | Nmap, FFUF, Gobuster |
 |[Mongod](./T1_mongod/README.md)| DB | Nmap, **MongoDB**, mongo |
 |[Synced](./T1_synced/README.md)| RSync | Nmap, **Rsync**, rsync|
+
+### Lv 2:
+| Lab Link | Type | Skill |
+|---|---|---|
+|[Appointment](./T2_appointment/README.md)| Web, SQLi, Recon| |
