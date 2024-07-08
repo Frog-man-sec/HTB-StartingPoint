@@ -16,4 +16,5 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 ### Lv 2:
 | Lab Link | Type | Skill |
 |---|---|---|
-|[Appointment](./T2_appointment/README.md)| Web, SQLi, Recon| |
+|[Appointment](./T2_appointment/README.md)| Web, SQLi, Recon|**SQL**, Fuzzing |
+|[Sequel](./T2_Sequel/README.md)| Web, SQLi| **MySQL**, mysql cli, mysqldump|
