@@ -1,5 +1,10 @@
 ## Sequel HackTheBox
 #### About the Box
+Box is about sql. No, not sqli. you have to get into the sql server and use sql queires to get the flag.
+**`Skill you will need:`**
+- MySQL
+- mysqldump
+- nmap
 
 ---
 #### Step 1: `enumming the net`
