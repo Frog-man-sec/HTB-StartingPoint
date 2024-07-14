@@ -1,6 +1,14 @@
 ## Responder HackTheBox
 #### About Box
+Responder is a box that will help you to take the first step towards Windows server exploitation. I like the room because it tought me some new stuffs that I've never new existed.
 
+**`skill needed`**
+- Nmap
+- Gobuster/ FFUF
+- responder
+- evil-winrm
+- LFI
+- RFI
 ---
 #### Step One: Recon
 First thing is : `nmap`

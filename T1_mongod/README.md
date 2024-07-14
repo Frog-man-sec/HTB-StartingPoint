@@ -1,6 +1,6 @@
 ## Mongod HackTheBox
 #### Short Bio
-Super cool room on MongoDB and how to access it via CLI. **ou will learn:**
+Super cool room on MongoDB and how to access it via CLI. **You will learn:**
 - MongoDB
 - MongoDB commands
 - Structures of DB
