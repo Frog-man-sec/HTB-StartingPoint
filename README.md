@@ -21,3 +21,4 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 |[Crocodile](./T2_crocodile/README.md)|Web,FTP|**FTP**, Burp, **Fuzzing**|
 |[Responder](./T2_responder/README.md)| Web, Windows, WinRM, File Inclusion | Web, responder, **LFI**, RFI, evil-winrm, **Winrm**, FFUF, Recon |
 |[Three](./T2_Three/README.md)|Web, AWS, vHost|**awscli**, FFUF, vHost enumeration, s3,|
+|[Ignition](./T2_ignition/README.md)| Web | FFUF, Recon |
