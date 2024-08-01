@@ -23,3 +23,4 @@ This repo contains some basic notes about `Hack The Box Starting Point` labs.
 |[Three](./T2_Three/README.md)|Web, AWS, vHost|**awscli**, FFUF, vHost enumeration, s3,|
 |[Ignition](./T2_ignition/README.md)| Web | FFUF, Recon |
 |[Bike](./T2_bike/README.md)|Web|**SSTI**, Node.js|
+|[Funnel](./T2_funnel/README.md)|Server|FTP, SSH|
